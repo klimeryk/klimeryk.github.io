@@ -2,6 +2,7 @@
 title: 'Use Midnight Commander like a pro'
 date: Fri, 01 May 2015 17:11:00 +0000
 draft: false
+url: /2015/05/01/use-midnight-commander-like-a-pro/
 tags: ['Linux', 'Tools']
 ---
 

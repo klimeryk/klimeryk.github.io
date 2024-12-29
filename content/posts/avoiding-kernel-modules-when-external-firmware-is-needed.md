@@ -2,6 +2,7 @@
 title: 'Avoiding Kernel Modules When External Firmware Is Needed'
 date: Mon, 05 May 2014 21:41:00 +0000
 draft: false
+url: /2014/05/05/avoiding-kernel-modules-when-external-firmware-is-needed/
 tags: ['Kernel', 'Linux']
 ---
 

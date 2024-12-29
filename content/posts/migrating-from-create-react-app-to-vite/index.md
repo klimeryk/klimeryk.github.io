@@ -2,6 +2,7 @@
 title: 'Migrating from Create React App to Vite'
 date: Sat, 06 Jul 2024 22:08:50 +0000
 draft: false
+url: /2024/07/06/migrating-from-create-react-app-to-vite/
 tags: ['Programming']
 ---
 

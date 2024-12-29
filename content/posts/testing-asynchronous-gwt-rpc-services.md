@@ -2,6 +2,7 @@
 title: 'Testing asynchronous GWT-RPC services'
 date: Thu, 28 Aug 2014 17:01:00 +0000
 draft: false
+url: /2014/08/28/testing-asynchronous-gwt-rpc-services/
 tags: ['Google Web Toolkit', 'GWT', 'Programming', 'Testing']
 ---
 

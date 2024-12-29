@@ -2,6 +2,7 @@
 title: 'Testing gwteventbinder with gwtmockito'
 date: Wed, 27 Aug 2014 21:46:00 +0000
 draft: false
+url: /2014/08/27/testing-gwteventbinder-with-gwtmockito/
 tags: ['Google Web Toolkit', 'GWT', 'Programming', 'Testing']
 ---
 

@@ -2,6 +2,7 @@
 title: 'Activities, places and the visitor pattern'
 date: Mon, 22 Sep 2014 17:01:00 +0000
 draft: false
+url: /2014/09/22/activities-places-and-the-visitor-pattern/
 tags: ['Design patterns', 'Google Web Toolkit', 'GWT', 'Programming']
 ---
 
