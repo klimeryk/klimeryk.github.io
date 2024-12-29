@@ -1,0 +1,45 @@
+baseURL = 'https://klimer.eu/'
+languageCode = 'en-us'
+title = "Igor Klimer's personal site"
+theme = 're-terminal'
+
+[params]
+  themeColor = "blue"
+  showMenuItems = 8
+
+[params.logo]
+  logoText = "Igor Klimer's personal site"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects/'
+    weight = 20
+  [[menus.main]]
+    name = 'ReCalendar'
+    url = '/projects/recalendar/'
+    parent = 'Projects'
+    weight = 1
+  [[menus.main]]
+    name = 'Deal With It Emoji Generator'
+    url = '/projects/deal-with-it-emoji-generator/'
+    parent = 'Projects'
+    weight = 2
+  [[menus.main]]
+    name = 'Garmodoro'
+    url = '/projects/garmodoro/'
+    parent = 'Projects'
+    weight = 3
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+  [[menus.main]]
+    name = 'Photography'
+    url = 'https://photo.klimer.eu/'
+    weight = 40
+
